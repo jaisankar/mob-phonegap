@@ -19,3 +19,7 @@ var app = {
         alert("JAI");
     }
 };
+
+function nnn(){
+	alert("KKKKK");
+};
