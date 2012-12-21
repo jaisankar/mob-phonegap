@@ -98,3 +98,6 @@ h1 {
         padding-top:60px;   /* center the text */
     }
 }
+h1{
+	color: red;
+}
